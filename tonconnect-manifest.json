@@ -1,7 +1,7 @@
 {
-  "url": "https://github.com/CORDES512/TONLottery.git",
+  "url": "https://github.com/CORDES512/TONLottery",
   "name": "TON Lottery Bot",
-  "iconUrl": "https://github.com/CORDES512/TONLottery.git/assets/icon.png",
-  "termsOfUseUrl": "https://github.com/CORDES512/TONLottery.git/terms",
-  "privacyPolicyUrl": "https://github.com/CORDES512/TONLottery.git/privacy"
+  "iconUrl": "https://github.com/CORDES512/TONLottery/tree/main/assets/icon.png",
+  "termsOfUseUrl": "https://github.com/CORDES512/TONLottery/blob/main/terms.html",
+  "privacyPolicyUrl": "https://github.com/CORDES512/TONLottery/blob/main/privacy.html"
 }
